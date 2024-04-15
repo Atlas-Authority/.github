@@ -3,6 +3,7 @@
 - [ ] unit tests added / updated
 - [ ] integration tests added / updated
 - [ ] documentation added / updated
+- [ ] (only: TCC / IJC) integration tests run on PR
 
 ## Please add a list of affected issue keys from Jira here:
 
